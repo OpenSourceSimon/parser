@@ -1,0 +1,16 @@
+{
+  "name": "postlight-parser-api",
+  "version": "1.0.0",
+  "description": "An API made in NodeJS to interact with the amazing package Postlight Parser",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'No build step required.'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@postlight/parser": "2.2.3",
+    "express": "^4.18.2"
+  }
+}
